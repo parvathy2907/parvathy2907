@@ -1,4 +1,4 @@
-## Hi there 👋 , I'm Parvathy 
+## Hi there , I'm Parvathy 👋
 
 # 💫 About Me:
 🎓 Currently pursuing my B.Tech in Computer Science and Engineering at Amrita Vishwa Vidyapeetham.<br>🚀 Exploring web development and Python automation, building projects that combine scripting with real-world problem-solving.
