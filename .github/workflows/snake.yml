@@ -28,7 +28,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Collect images
-        run: cp profile-3d-contrib/*.svg dist/
+        run: | 
+            sudo mkdir -p dist           
+            sudo cp profile-3d-contrib/*.svg dist/           
+            sudo chown -R $USER dist
 
       # Publish everything to the "output" branch (keeps your main branch clean)
       - uses: crazy-max/ghaction-github-pages@v4
