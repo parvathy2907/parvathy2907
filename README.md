@@ -18,7 +18,7 @@
 <!-- ═══════════════ ABOUT ═══════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1500&pause=10000&color=A855F7&vCenter=true&width=400&height=40&repeat=false&lines=%24+whoami" />
 
-<img align="right" width="380" src="./assets/cat.svg" alt="Animated cat coding on a laptop" />
+<img align="right" width="380" src="./cat.svg" alt="Animated cat coding on a laptop" />
 
 **Hi, I'm Parvathy** — a final year Computer Science undergraduate at **Amrita Vishwa Vidyapeetham**, based in Trivandrum.
 
