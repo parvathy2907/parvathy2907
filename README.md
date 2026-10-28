@@ -46,11 +46,13 @@ I build for the web and write Python that automates the tedious parts of real-wo
 
 <p align="center">
   <a href="https://github.com/parvathy2907/DEFENSIQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvathy2907&repo=DEFENSIQ&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D" width="49%" /></a>
-  <a href="https://github.com/parvathy2907/amrita-student-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvathy2907&repo=amrita-student-hub&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D" width="49%" /></a>
-  <a href="https://github.com/parvathy2907/smart-vending-machine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvathy2907&repo=smart-vending-machine&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D" width="49%" /></a>
-  <a href="https://github.com/parvathy2907/epidemic-simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvathy2907&repo=epidemic-simulator&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D" width="49%" /></a>
+  <!-- ✏️ Replace DYNAMIC-PRICE-WARS-REPO (both places on the next line) with the exact repo name -->
+  <a href="https://github.com/parvathy2907/DYNAMIC-PRICE-WARS-REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvathy2907&repo=DYNAMIC-PRICE-WARS-REPO&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D" width="49%" /></a>
   <a href="https://github.com/parvathy2907/replate-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvathy2907&repo=replate-frontend&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D" width="49%" /></a>
-  <a href="https://github.com/parvathy2907/FOCS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvathy2907&repo=FOCS&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D" width="49%" /></a>
+  <!-- ✏️ Replace DISTRIBUTED-LOG-REPO (both places on the next line) with the exact repo name -->
+  <a href="https://github.com/parvathy2907/DISTRIBUTED-LOG-REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvathy2907&repo=DISTRIBUTED-LOG-REPO&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D" width="49%" /></a>
+  <a href="https://github.com/parvathy2907/epidemic-simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvathy2907&repo=epidemic-simulator&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D" width="49%" /></a>
+  <a href="https://github.com/parvathy2907/smart-vending-machine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=parvathy2907&repo=smart-vending-machine&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&icon_color=A855F7&border_color=30363D" width="49%" /></a>
 </p>
 
 <br/>
